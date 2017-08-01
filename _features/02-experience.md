@@ -1,7 +1,7 @@
 ---
 id: services
 name: Experience and Expertise
-heading: The Second Heading
+heading: Experience and Expertise
 subheading: 
 image: "assets/images/pottery.jpg"
 ---
