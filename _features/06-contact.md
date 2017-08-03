@@ -18,4 +18,9 @@ p: 02 6494 5759
 
 m: 0402 831 291
 
-e: info@lanternheritage.com.au
+e: <a href="mailto:&#105;&#110;&#102;&#111;&#064;&#108;&#097;&#110;&#116;&#101;&#114;&#110;&#104;&#101;&#114;&#105;&#116;&#097;&#103;&#101;&#046;&#099;&#111;&#109;&#046;&#097;&#117;"> &#105;&#110;&#102;&#111;&#064;&#108;&#097;&#110;&#116;&#101;&#114;&#110;&#104;&#101;&#114;&#105;&#116;&#097;&#103;&#101;&#046;&#099;&#111;&#109;&#046;&#097;&#117; </a>
+
+info@lanternheritage.com.au
+
+[<img src="assets/images/social/facebook.png">](https://www.facebook.com/shiningalightonpeopleandplace/)  [<img src="assets/images/social/linkedin.png">](https://www.linkedin.com/company-beta/18175797/)   [<img src="assets/images/social/twitter.png">](https://twitter.com/LanternHeritage)  
+
