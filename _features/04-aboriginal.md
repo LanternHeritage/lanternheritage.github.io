@@ -3,7 +3,7 @@ id: aboriginal
 name: Aboriginal Heritage
 heading: Aboriginal Heritage
 subheading: 
-image: "assets/images/buckets.png"
+image: "assets/images/500/buckets.png"
 ---
 
 Demonstrated experience in survey, excavation and interpretation of Pleistocene, Holocene and contact period sites.

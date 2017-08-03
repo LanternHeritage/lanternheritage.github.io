@@ -3,7 +3,7 @@ id: contact
 name: Contact Us
 heading: Contact Us
 subheading: Lantern Heritage Pty Ltd 
-image: "assets/images/hill.png"
+image: "assets/images/500/hill.png"
 ---
 
 

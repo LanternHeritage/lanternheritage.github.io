@@ -3,7 +3,7 @@ id: contact
 name: Archaeology
 heading: Archaeology
 subheading: Contextual interpretation and assessment
-image: "assets/images/dig.png"
+image: "assets/images/500/dig.png"
 ---
 
 Lantern Heritage specialises in the identification, assessment and investigation of archaeological sites. From individual artefacts and assemblages through to site complexes and entire landscapes, we have the skills to identify, record, document, analyse and interpret archaeology. 
