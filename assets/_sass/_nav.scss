@@ -1,8 +1,12 @@
 nav {
 	background-color: #004643;
-	color: #da6728;
 	@extend .navbar, .navbar-inverse, .navbar-fixed-top;
 	button { @extend .navbar-toggle; }
 	#menu { @extend .collapse, .navbar-collapse; }
-  ul { @extend .nav, .navbar-nav; }
+	ul { @extend .nav, .navbar-nav; }
+	.navbar-header {
+		a {
+			color: #da6728;
+		}
+	}
 }
