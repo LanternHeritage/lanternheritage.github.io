@@ -9,6 +9,12 @@ main {
     &.pull-right {  margin-left: 40px;  }
   }
 
+  #map {
+    height: 500px;
+    width: 100%;
+  }
+
+
   .social {
     border-radius: 0;
     display: inline;
