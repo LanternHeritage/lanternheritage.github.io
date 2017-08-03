@@ -6,7 +6,7 @@
       {% if feature.image %}
       <img class='{% cycle 'pull-right', 'pull-left' %}' src='{{ feature.image }}'>
       {% else %}
-      <div id="map"></div>
+      <div id="map" class='{% cycle 'pull-right', 'pull-left' %}'></div>
       <script>
         function initMap() {
           var lanternheritage = {lat: {{ feature.lat }}, lng: {{ feature.lng }} };

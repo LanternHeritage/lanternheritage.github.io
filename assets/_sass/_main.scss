@@ -10,8 +10,11 @@ main {
   }
 
   #map {
+    width: 500px;
     height: 500px;
-    width: 100%;
+
+    &.pull-left {  margin-right: 40px;  }
+    &.pull-right {  margin-left: 40px;  }
   }
 
 
