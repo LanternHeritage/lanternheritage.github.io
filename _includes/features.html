@@ -11,7 +11,7 @@
         function initMap() {
           var lanternheritage = {lat: {{ feature.lat }}, lng: {{ feature.lng }} };
           var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 4,
+            zoom: 10,
             center: lanternheritage
           });
           var marker = new google.maps.Marker({
