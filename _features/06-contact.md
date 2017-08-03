@@ -6,7 +6,7 @@ subheading: Lantern Heritage Pty Ltd
 image: "assets/images/500/hill.png"
 ---
 
-### We are more than happy to provide initial consultation and advice at no cost to you. Get in touch today to find out what we can do for you.
+We are more than happy to provide initial consultation and advice at no cost to you. Get in touch today to find out what we can do for you.
 
 PO Box 7039
 TATHRA NSW 2550

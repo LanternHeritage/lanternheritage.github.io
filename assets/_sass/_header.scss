@@ -2,13 +2,18 @@ header {
   display: block;
   width: 100%;
   text-align: center;
-  background: url('images/logowithcaption.png') no-repeat center center scroll;
+  // background: url('images/logowithcaption.png') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 
   .headline { padding: 120px 0; }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 
   h1 {
     font-size: 130px;
