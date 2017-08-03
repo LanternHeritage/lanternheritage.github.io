@@ -2,8 +2,7 @@
 id: contact
 name: Archaeology
 heading: Archaeology
-subheading: 
-Contextual interpretation and assessment
+subheading: Contextual interpretation and assessment
 image: "assets/images/dig.png"
 ---
 
