@@ -3,7 +3,7 @@
     <hr id='{{ feature.id }}'>
 
     <section>
-      {% if feature.map == blank %}
+      {% if feature.image %}
       <img class='{% cycle 'pull-right', 'pull-left' %}' src='{{ feature.image }}'>
       {% else %}
       <div id="map"></div>
