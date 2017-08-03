@@ -3,7 +3,24 @@
     <hr id='{{ feature.id }}'>
 
     <section>
+      {% if fature.map == blank %}
       <img class='{% cycle 'pull-right', 'pull-left' %}' src='{{ feature.image }}'>
+      {% else %}
+      <div id="map"></div>
+      <script>
+        function initMap() {
+          var lanternheritage = {lat: {{ feature.lat }}, lng: {{ feature.lng }} };
+          var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 4,
+            center: lanternheritage
+          });
+          var marker = new google.maps.Marker({
+            position: lanternheritage,
+            map: map
+          });
+        }
+      </script>
+      {% endif %}
       <h2>{{ feature.heading }}</h2>
       <h3><span>{{ feature.subheading }}</span></h3>
       <div class='lead'>{{ feature.content }}</div>
