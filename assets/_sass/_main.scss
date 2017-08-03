@@ -10,6 +10,11 @@ main {
     &.pull-right {  margin-left: 40px;  }
   }
 
+  .social {
+    border-radius: 0;
+    display: inline;
+  }
+
   h2 {
     font-size: 50px;
     span { @extend .text-muted; }
