@@ -1,7 +1,7 @@
 ---
-id: aboriginal
-name: Historic Heritage
-heading: Historic Heritage
+id: historical
+name: Historical Heritage
+heading: Historical Heritage
 subheading: 
 image: "assets/images/historical.png"
 ---
