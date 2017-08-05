@@ -23,11 +23,11 @@ m: 0402 831 291
 e: <a href="mailto:&#105;&#110;&#102;&#111;&#064;&#108;&#097;&#110;&#116;&#101;&#114;&#110;&#104;&#101;&#114;&#105;&#116;&#097;&#103;&#101;&#046;&#099;&#111;&#109;&#046;&#097;&#117;"> &#105;&#110;&#102;&#111;&#064;&#108;&#097;&#110;&#116;&#101;&#114;&#110;&#104;&#101;&#114;&#105;&#116;&#097;&#103;&#101;&#046;&#099;&#111;&#109;&#046;&#097;&#117; </a>
 
 <div class="socialwrapper">
-    [<img class="social" src="assets/images/social/facebook.png">](https://www.facebook.com/shiningalightonpeopleandplace/)
-    [<img class="social" src="assets/images/social/linkedin.png">](https://www.linkedin.com/company-beta/18175797/)
+    <a href="https://www.facebook.com/shiningalightonpeopleandplace/"><img class="social" src="assets/images/social/facebook.png"></a>
+    <a href="https://www.linkedin.com/company-beta/18175797/"><img class="social" src="assets/images/social/linkedin.png"></a>
 </div>
 
 <div class="socialwrapper">
-    [<img class="social" src="assets/images/social/twitter.png">](https://twitter.com/LanternHeritage)
-    [<img class="social"  src="assets/images/social/instagram.png">](https://www.instagram.com/shiningalightonpeopleandplace/)  
+    <a href="https://twitter.com/LanternHeritage"><img class="social" src="assets/images/social/twitter.png"></a>
+    <a href="https://www.instagram.com/shiningalightonpeopleandplace/"><img class="social"  src="assets/images/social/instagram.png"></a>
 </div>
