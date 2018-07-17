@@ -1,7 +1,6 @@
 title: Lantern Heritage
 description: Heritage Consultants
 sitename: Lantern Heritage
-baseurl: '/lanternheritage.github.io'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
