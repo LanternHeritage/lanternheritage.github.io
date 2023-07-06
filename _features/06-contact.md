@@ -2,7 +2,7 @@
 id: contact
 name: Contact Us
 heading: Contact Us
-subheading: Lantern Heritage Pty Ltd 
+subheading: Lantern Heritage Pty Ltd (restructuring practitioner appointed)
 map: enabled
 lat: -36.797812
 lng: 149.903968
